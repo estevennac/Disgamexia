@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DisGameXia</string>
+    <string name="amount">Amount: 10</string>
+    <string name="category">Category</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="type">Type</string>
+</resources>

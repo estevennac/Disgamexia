@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="statusBarColor">#F7F7F7</color>
+    <color name="backgroundColor">#F7F7F7</color>
+    <color name="gray">#DCDCDC</color>
+    <color name="cardColor">#FFFFFF</color>
+    <color name="light_blue_card_color">#4316C0F9</color>
+    <color name="blueText">#00BFFF</color>
+    <color name="leader_board_bg">#77E6F4</color>
+    <color name="blue2">#32CEE3</color>
+    <color name="blue3">#08C3DA</color>
+</resources>

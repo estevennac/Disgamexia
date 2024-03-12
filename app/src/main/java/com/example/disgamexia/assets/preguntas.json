@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Madrid"]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote the Harry Potter series?",
+      "correct_answer": "J.K. Rowling",
+      "incorrect_answers": ["J.R.R. Tolkien", "C.S. Lewis", "Stephen King"]
+    }
+  ]
+}
